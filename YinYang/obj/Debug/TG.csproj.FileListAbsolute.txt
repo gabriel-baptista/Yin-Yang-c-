@@ -1,0 +1,15 @@
+C:\Users\T-Gamer\source\repos\TG\TG\bin\Debug\TG.exe.config
+C:\Users\T-Gamer\source\repos\TG\TG\bin\Debug\TG.exe
+C:\Users\T-Gamer\source\repos\TG\TG\bin\Debug\TG.pdb
+C:\Users\T-Gamer\source\repos\TG\TG\obj\Debug\TG.csprojAssemblyReference.cache
+C:\Users\T-Gamer\source\repos\TG\TG\obj\Debug\TG.Form1.resources
+C:\Users\T-Gamer\source\repos\TG\TG\obj\Debug\TG.Properties.Resources.resources
+C:\Users\T-Gamer\source\repos\TG\TG\obj\Debug\TG.csproj.GenerateResource.cache
+C:\Users\T-Gamer\source\repos\TG\TG\obj\Debug\TG.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\source\repos\TG\TG\obj\Debug\TG.exe
+C:\Users\T-Gamer\source\repos\TG\TG\obj\Debug\TG.pdb
+C:\Users\T-Gamer\source\repos\TG\TG\obj\Debug\TG.Tela_Inical.resources
+C:\Users\T-Gamer\source\repos\TG\TG\obj\Debug\TG.CadastrarUsuários.resources
+C:\Users\T-Gamer\source\repos\TG\TG\bin\Debug\MySql.Data.dll
+C:\Users\T-Gamer\source\repos\TG\TG\obj\Debug\TG.csproj.CopyComplete
+C:\Users\T-Gamer\source\repos\TG\TG\obj\Debug\TG.Tela_principal.resources
